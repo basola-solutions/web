@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://basola-solutions.github.io/contact/</loc>
     <lastmod>2025-05-25T17:10:28-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://basola-solutions.github.io/</loc>
     <lastmod>2025-05-25T17:10:28-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://basola-solutions.github.io/about/</loc>
     <lastmod>2025-05-25T17:10:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>https://basola-solutions.github.io/about/about/</loc>
     <lastmod>2025-05-25T17:10:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://basola-solutions.github.io/posts/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://basola-solutions.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://basola-solutions.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/produkte/</loc>
+    <loc>https://basola-solutions.github.io/produkte/</loc>
   </url>
 </urlset>
