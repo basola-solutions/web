@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/web/</loc>
+    <loc>basola-solutions.github.io/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/application/</loc>
+    <loc>basola-solutions.github.io/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/architecture/</loc>
+    <loc>basola-solutions.github.io/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/blog/</loc>
+    <loc>basola-solutions.github.io/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/</loc>
+    <loc>basola-solutions.github.io/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/data/</loc>
+    <loc>basola-solutions.github.io/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/blog/post-1/</loc>
+    <loc>basola-solutions.github.io/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/blog/post-2/</loc>
+    <loc>basola-solutions.github.io/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/blog/post-3/</loc>
+    <loc>basola-solutions.github.io/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/blog/post-4/</loc>
+    <loc>basola-solutions.github.io/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/nextjs/</loc>
+    <loc>basola-solutions.github.io/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/silicon/</loc>
+    <loc>basola-solutions.github.io/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/software/</loc>
+    <loc>basola-solutions.github.io/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/software/</loc>
+    <loc>basola-solutions.github.io/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/</loc>
+    <loc>basola-solutions.github.io/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/tailwind/</loc>
+    <loc>basola-solutions.github.io/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/categories/technology/</loc>
+    <loc>basola-solutions.github.io/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/tags/technology/</loc>
+    <loc>basola-solutions.github.io/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/web/authors/</loc>
+    <loc>basola-solutions.github.io/authors/</loc>
   </url><url>
-    <loc>//localhost:1313/web/contact/</loc>
+    <loc>basola-solutions.github.io/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/web/elements/</loc>
+    <loc>basola-solutions.github.io/elements/</loc>
   </url><url>
-    <loc>//localhost:1313/web/about/</loc>
+    <loc>basola-solutions.github.io/about/</loc>
   </url><url>
-    <loc>//localhost:1313/web/authors/john-doe/</loc>
+    <loc>basola-solutions.github.io/authors/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/web/pages/</loc>
+    <loc>basola-solutions.github.io/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/web/privacy-policy/</loc>
+    <loc>basola-solutions.github.io/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/web/authors/sam-wilson/</loc>
+    <loc>basola-solutions.github.io/authors/sam-wilson/</loc>
   </url><url>
-    <loc>//localhost:1313/web/sections/</loc>
+    <loc>basola-solutions.github.io/sections/</loc>
   </url><url>
-    <loc>//localhost:1313/web/authors/william-jacob/</loc>
+    <loc>basola-solutions.github.io/authors/william-jacob/</loc>
   </url>
 </urlset>
