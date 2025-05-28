@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on basola</title>
-    <link>basola-solutions.github.io/tags/</link>
+    <link>https://basola-solutions.github.io/web/tags/</link>
     <description>Recent content in Tags on basola</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="basola-solutions.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://basola-solutions.github.io/web/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nextjs</title>
-      <link>basola-solutions.github.io/tags/nextjs/</link>
+      <link>https://basola-solutions.github.io/web/tags/nextjs/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/tags/nextjs/</guid>
+      <guid>https://basola-solutions.github.io/web/tags/nextjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Silicon</title>
-      <link>basola-solutions.github.io/tags/silicon/</link>
+      <link>https://basola-solutions.github.io/web/tags/silicon/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/tags/silicon/</guid>
+      <guid>https://basola-solutions.github.io/web/tags/silicon/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>basola-solutions.github.io/tags/software/</link>
+      <link>https://basola-solutions.github.io/web/tags/software/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/tags/software/</guid>
+      <guid>https://basola-solutions.github.io/web/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Tailwind</title>
-      <link>basola-solutions.github.io/tags/tailwind/</link>
+      <link>https://basola-solutions.github.io/web/tags/tailwind/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/tags/tailwind/</guid>
+      <guid>https://basola-solutions.github.io/web/tags/tailwind/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>basola-solutions.github.io/tags/technology/</link>
+      <link>https://basola-solutions.github.io/web/tags/technology/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/tags/technology/</guid>
+      <guid>https://basola-solutions.github.io/web/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

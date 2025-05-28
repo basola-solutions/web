@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on basola</title>
-    <link>basola-solutions.github.io/authors/</link>
+    <link>https://basola-solutions.github.io/web/authors/</link>
     <description>Recent content in Authors on basola</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="basola-solutions.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://basola-solutions.github.io/web/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>basola-solutions.github.io/authors/john-doe/</link>
+      <link>https://basola-solutions.github.io/web/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/authors/john-doe/</guid>
+      <guid>https://basola-solutions.github.io/web/authors/john-doe/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sam Wilson</title>
-      <link>basola-solutions.github.io/authors/sam-wilson/</link>
+      <link>https://basola-solutions.github.io/web/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/authors/sam-wilson/</guid>
+      <guid>https://basola-solutions.github.io/web/authors/sam-wilson/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>William Jacob</title>
-      <link>basola-solutions.github.io/authors/william-jacob/</link>
+      <link>https://basola-solutions.github.io/web/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>basola-solutions.github.io/authors/william-jacob/</guid>
+      <guid>https://basola-solutions.github.io/web/authors/william-jacob/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
   </channel>
